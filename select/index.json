@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Yankeee",
   "base_artist": "Aooo",
-  "createdAt": "2026-03-03T05:57:27.763422Z",
+  "createdAt": "2026-03-25T08:36:13.543307Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "Aooo",
       "has_synced": false,
       "path": "select/pl_01_Yankeee_Aooo.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Yankeee",
+      "artist": "Aooo",
+      "has_synced": true,
+      "path": "select/localdb_01_Yankeee_Aooo.lrc",
+      "repo_name": "TznkwLWqYh0"
     }
   ]
 }
